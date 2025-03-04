@@ -1,5 +1,10 @@
 ## Hi there 👋  , I'm Dasari Kumar
 
+# 🚀 Dasari Kumar – Flutter D & Mobile Developer  
+
+## Crafting Seamless & Intuitive Mobile Experiences  
+
+I'm a *Flutter Developer & UI/UX Designer* passionate about creating *engaging, user-friendly, and high-performance mobile applications. With expertise in **Flutter, Dart, and Firebase, I specialize in building **cross-platform apps* that deliver smooth UI/UX and efficient functionality. 
 
 - 🔭 I’m currently working on a project name **Treasure hunt**
 
@@ -17,6 +22,30 @@
 Hello, we're excited to introduce **Treasure Hunt**, an interactive mobile application inspired by treasure hunt references. The project features a collection of meticulously crafted UI designs that take users on a thrilling and adventurous journey.
 
 ---
+## 🛠 Tech Stack  
+📌 *Languages*: Dart  
+📌 *Frameworks*: Flutter  
+📌 *Backend*: Firebase, Firestore, REST APIs  
+📌 *Design Tools*: Figma 
+📌 *Version Control*: Git, GitHu
+
+## 🚀 Projects  
+- *Treasure hunt* – Full-fledged gaming UI inspired
+- *Movie_Streaming_App* – Flutter-based Movies Streaming app with Firebase backend  
+- *Car Rental Project* – Smooth UI with real-time car booking app
+
+### Checkout My Projects 
+- [car_rental_project](https://github.com/dasarikumar/car_rental_project )
+- [movie_streaming_app](https://github.com/dasarikumar/movie_streaming_app )
+- [treasure-hunt](https://github.com/Sampath-2613/treasure-hunt )
+
+---
+
+### 🚀 I am currently working on a project named *Treasure Hunt*  
+
+# 📲 Treasure Hunt  
+
+Hello, I'm kumar, a Flutter developer passionate about creating seamless gaming experiences. *Treasure Hunt* is a full-fledged gaming platform replicating *Treasure Hunt UI/UX*, providing users with a smooth and efficient way to play the game.
 
 ## 🎮 **Features**  
 - 🗺️ **Interactive and dynamic treasure hunt game UI**  
@@ -45,7 +74,7 @@ Explore the immersive UI designs and game flow features that bring the treasure 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasarikumar&layout=compact&theme=radical)  
 
-## 👨‍💻 Tools Used  
+## 👨‍💻 Tools Used in this Project 
 
 🔹 Flutter  
 🔹 Firebase  
@@ -55,7 +84,6 @@ Explore the immersive UI designs and game flow features that bring the treasure 
 ## 💡 **UI Design Inspiration**  
 The **Treasure Hunt** app draws its inspiration from treasure hunt games, offering users an exciting and visually engaging interface throughout the app.
 
----
 ---
 
 ## 📲 **Installation**
@@ -73,12 +101,7 @@ To get started with the **Treasure Hunt** project, follow these steps:
 ## 👋🏻 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kumar-dasari-29773a214/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/vivek-1206/)  
-
-### Checkout My Projects 
-- [Car Rental App](https://github.com/vivek-1206/flutter_project)
-- [](https://github.com/vivek-1206/bppsapp)
-
----
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/dasarikumar)  
 
 🚀 *Let's build seamless payment experiences together!*
+
