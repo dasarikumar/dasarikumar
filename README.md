@@ -1,6 +1,6 @@
 ## Hi there 👋  , I'm Dasari Kumar
 
-# 🚀 Dasari Kumar – Flutter Designer & Mobile Developer  
+# 🚀 Flutter Designer & Mobile Developer  
 
 ## Crafting Seamless & Intuitive Mobile Experiences  
 
@@ -79,6 +79,7 @@ Explore the immersive UI designs and game flow features that bring the treasure 
 🔹 Firebase  
 🔹 Google Fonts  
 🔹 Material Ui
+
 ## 💡 **UI Design Inspiration**  
 The **Treasure Hunt** app draws its inspiration from treasure hunt games, offering users an exciting and visually engaging interface throughout the app.
 
