@@ -1,6 +1,6 @@
 ## Hi there 👋  , I'm Dasari Kumar
 
-# 🚀 Dasari Kumar – Flutter D & Mobile Developer  
+# 🚀 Dasari Kumar – Flutter Designer & Mobile Developer  
 
 ## Crafting Seamless & Intuitive Mobile Experiences  
 
