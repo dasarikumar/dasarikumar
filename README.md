@@ -75,12 +75,10 @@ Explore the immersive UI designs and game flow features that bring the treasure 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasarikumar&layout=compact&theme=radical)  
 
 ## 👨‍💻 Tools Used in this Project 
-
 🔹 Flutter  
 🔹 Firebase  
 🔹 Google Fonts  
-🔹 Material U
-
+🔹 Material Ui
 ## 💡 **UI Design Inspiration**  
 The **Treasure Hunt** app draws its inspiration from treasure hunt games, offering users an exciting and visually engaging interface throughout the app.
 
@@ -92,7 +90,7 @@ To get started with the **Treasure Hunt** project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/treasure-hunt.git
+   git clone https://github.com/Sampath-2613/treasure-hunt.git
 
 
 <h3 align="left">Languages and Tools:</h3>
