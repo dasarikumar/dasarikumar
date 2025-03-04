@@ -40,6 +40,12 @@ Hello, we're excited to introduce **Treasure Hunt**, an interactive mobile appli
 - [treasure-hunt](https://github.com/Sampath-2613/treasure-hunt )
 
 ---
+<h2>🎓 Education</h2>
+<ul>
+  <li>🎓 <strong>B.Tech (Mechanical Engineering)</strong> – DVR & DR.HS Mic College Of Technology</li>
+  <li>🏫 <strong>Intermediate (MPC)</strong> – Sri Chaitanya Jr College</li>
+  <li>🏫 <strong>Schooling</strong> – S.P.N.R.C High School</li>
+</ul>
 
 ### 🚀 I am currently working on a project named *Treasure Hunt*  
 
